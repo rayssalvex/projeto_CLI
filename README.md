@@ -5,7 +5,7 @@ Uma ferramenta simples de linha de comando feita com Node.js que busca curiosida
 ## 📦 Instalação Local
 
 ```bash
-git clone https://github.com/seu-usuario/curiosidade-cli.git
+git clone https://github.com/rayssalvex/projeto_CLI.git
 cd curiosidade-cli
 npm install
 npm link
@@ -15,7 +15,6 @@ npm link
 
 ```bash
 curiosidade        # busca curiosidade em inglês
-curiosidade pt     # busca curiosidade em português
 ```
 
 ## 🛠 Tecnologias
