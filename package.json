@@ -1,0 +1,24 @@
+{
+  "name": "curiosidade-cli",
+  "version": "1.0.0",
+  "description": "Uma ferramenta de linha de comando que exibe curiosidades aleatórias usando a API do Useless Facts.",
+  "main": "curiosidade.js",
+  "bin": {
+    "curiosidade": "./curiosidade.js"
+  },
+  "scripts": {
+    "start": "node curiosidade.js"
+  },
+  "keywords": [
+    "cli",
+    "curiosidades",
+    "nodejs",
+    "api",
+    "uselessfacts"
+  ],
+  "author": "Rayssa dos Santos Alves",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
