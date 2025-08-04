@@ -1,4 +1,4 @@
-# 🧠 Curiosidade CLI
+# 🧠 Curiosidade CLI - PROJETO 5
 
 Uma ferramenta simples de linha de comando feita com Node.js que busca curiosidades aleatórias da API [Useless Facts](https://uselessfacts.jsph.pl). No momento por ser um projeto mais simples as curiosidades vem apenas na lingua original en(ingles). Aproveitem para treinar/testar o ingles de vocês 🙃
 
@@ -34,4 +34,3 @@ npm publish
 
 ---
 
-Feito com 💛 por Rayssa.
